@@ -1,5 +1,7 @@
 # Proyek 1: Membuat Program Validasi Password
 
+Tujuan proyek ini untuk membantu saya khususnya untuk check sebuah password input dari user pada API yang saya buat
+
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk membuat sebuah program menggunakan bahasa pemrograman Go untuk memeriksa karakter dan panjang dari sebuah password yang diinputkan oleh pengguna. Program akan memberikan umpan balik apakah password yang diinputkan memenuhi kriteria yang ditentukan dengan boolean.
